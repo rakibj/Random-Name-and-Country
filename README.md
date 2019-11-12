@@ -1,5 +1,5 @@
 # Random-Name-and-Country
-Get a random name and a random country for your bot player using one function call
+Get a random name and a random country for your bot player using one function call using Unity
 
 
 ## 
